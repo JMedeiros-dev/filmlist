@@ -25,7 +25,8 @@ SECRET_KEY = '1iq5i@0r25(%=*9&r0jr44*bi@*d%)cwz+9rcqkk#ey1wh=ftq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tranquil-sierra-35786.herokuapp.com',
+                 'localhost', '127.0.0.1']
 
 
 # Application definition
