@@ -5,7 +5,7 @@ import bcrypt
 from tmdbv3api import TMDb, Collection, Movie, Search
 
 tmdb = TMDb()
-tmdb.api_key = 'e7ba26a5f58bd7e6bc19051ad022ea11'
+tmdb.api_key = ''
 tmdb.language = "en"
 
 # ----------------- Login & Registration ----------------
