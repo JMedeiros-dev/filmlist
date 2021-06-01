@@ -1,5 +1,4 @@
 # filmlist
-Django app 
 
 Filmlist is a movie watchlist app that allows users to preview the latest and upcoming movies releases. They can keep track of the movies they want to see and have already watched.
 
